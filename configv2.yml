@@ -15,13 +15,13 @@ moduleLoop: 5
 awakeBrightness: 75
 
 # Brightness when the screen is asleep
-sleepBrightness: 10 
+sleepBrightness: 15 
 
 # Hour of the day to start sleeping
 sleepStart: 21
 
 # Hour of the day to stop sleeping
-sleepEnd: 6 
+sleepEnd: 8 
 
 # Enable to change the display to a clock instead of normal ticker scrolling during sleep
 sleepClock: True
